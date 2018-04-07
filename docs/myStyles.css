@@ -1,4 +1,9 @@
 
+@font-face {
+  font-family: 'bloodcrow';
+  src: url('bloodcrow.ttf');
+}
+
 
 .med-image {
 	width: 500px;
@@ -16,6 +21,7 @@ p {
 	margin-left: 20px;
 	text-align: center;
 	font-size: 25px;
+	font-family: bloodcrow;
 }
 
 a:visited {
