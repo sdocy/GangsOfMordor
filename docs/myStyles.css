@@ -1,0 +1,27 @@
+
+
+.med-image {
+	width: 500px;
+}
+
+.center {
+	text-align: center;
+}
+
+body {
+	color: #990000;
+}
+
+p {
+	margin-left: 20px;
+	text-align: center;
+	font-size: 25px;
+}
+
+a:visited {
+	color: #ac00e6;
+}
+
+a:hover {
+	color: #00ff00;
+}
